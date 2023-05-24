@@ -3,9 +3,9 @@ A two wheeler breakdown management System created using Java Swing packages and 
 
 ------------------------------EDITORS-------------------------------
 
-**MD SAIFUR RAHMAN (AP21110011177)**
+**MD SAIFUR RAHMAN (mdsaifrahman716@gmail.com)**
 
-**AKHIL SAI KAPA (AP21110010091)**
+**AKHIL SAI KAPA (akhilsai_k@srmap.edu.in)**
 
 --------------------------------------------------------------------
 
